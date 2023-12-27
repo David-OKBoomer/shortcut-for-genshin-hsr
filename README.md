@@ -2,8 +2,8 @@
 
 The program will create a .bat file to run Genshin Impact and Honkai: Star Rail directly without starting the launcher.
 
-##How to use:
-
+#How to use:
+----------------------------------------------------------------------------------------------------------------------------------------
 1. Download from release
 
 2. Run the file
